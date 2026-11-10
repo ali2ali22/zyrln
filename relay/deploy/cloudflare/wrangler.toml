@@ -1,4 +1,4 @@
-name = "mine"   # your Worker name in the Cloudflare dashboard
+name = "ali"   # your Worker name in the Cloudflare dashboard
 main = "worker.js"
 compatibility_date = "2025-01-01"
 
